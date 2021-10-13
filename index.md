@@ -13,11 +13,19 @@ National Institute of Technology, Calicut<br>
 Calicut, Kerala, India - 673601.<br>
 Email: shbu1993@gmail.com.</p>
 <HR>
+  <h3>Guideship:</h3>
+ <ul>
 
+<li>Dr. S. Sheerazuddin : https://sheerazuddins.github.io/</li>
+<li>Dr. K Muralikrishnan: </li>
+</ul>
+  
 <HR>
-<h3>Academic Background:</h3>
+<h4>Academic Background:</h4>
 <ul>
 
 <li>M.Tech. Computer Science and Engineering, Government Engineering College Wayanad,Kerala, 2018.</li>
 <li>B.Tech. Computer Science and Engineering, Government Engineering College Wayanad,Kerala, 2015.</li>
 </ul>
+  
+
