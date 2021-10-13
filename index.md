@@ -6,7 +6,7 @@ charset=iso-8859-15">
 </head>
 <body style="background-color:LightSteelBlue;"> 
 <h1 style="font-size:150%;">Shabana AT</h1>
-<h2 style="font-size:130%;">Research scholor</h2>
+<h2 style="font-size:130%;">Research scholar</h2>
 <p style="font-size:100%;">Theoretical Computer Science <br>
   Department of Computer Science and Engineering <br>
 National Institute of Technology, Calicut<br>
