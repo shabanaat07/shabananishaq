@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/shabananishaq/shabananishaq/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shabananishaq/shabananishaq/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;
+charset=iso-8859-15">
+<title></title>
+</head>
+<body style="background-color:LightSteelBlue;"> 
+<h1 style="font-size:150%;">S. Sheerazuddin</h1>
+<h2 style="font-size:130%;">Assistant Professor</h2>
+<p style="font-size:100%;">Department of Computer Science and Engineering <br>
+National Institute of Technology, Calicut<br>
+Kozhikode, Kerala, India - 673601. India<br>
+Email: sheerazXnitcYacYin [@/X,./Y].</p>
+<HR>
+<h3>Research Interests:</h3>
+<ul>
+<li>Formal Specification & Verification</li>
+<li>Model Checking</li>
+<li>Logic in Computer Science</li>
+</ul>
+<HR>
+<h3>Academic Background:</h3>
+<ul>
+<li>Ph.D. Theoretical Computer Science, The Institute of Mathematical Sciences, Chennai 2013.</li>
+<li>M.Sc. Theoretical Computer Science, The Institute of Mathematical Sciences, Chennai 2005.</li>
+<li>B.Tech. Computer Science and Engineering, REC Calicut, Calicut University, 2002.</li>
+</ul>
